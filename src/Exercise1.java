@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.*;
 
+// Va a ser más parecido al del ajedrez
+// Saldrán Listas, Mapas también con genéricos y ficheros csv
+// No comparables
+
 public class Exercise1 {
     public static void main(String[] args) {
 
