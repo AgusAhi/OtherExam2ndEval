@@ -1,9 +1,10 @@
 import java.io.*;
 import java.util.*;
 
-// Va a ser más parecido al del ajedrez
+// Va a ser más parecido al del ajedrez y coronavirus hasta el 4
 // Saldrán Listas, Mapas también con genéricos y ficheros csv
-// No comparables
+// Habrán comparables
+// Mapa será String String Hash map
 
 public class Exercise1 {
     public static void main(String[] args) {
